@@ -7,10 +7,10 @@ The purpose of this analysis was to explain the data to "Louise" pertaining to K
 ## Analysis and Challenges
 Below is a pivotchart showing trends in outcome by launch month
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](C:\Users\alder\ClassRepo\WorkingFolder\Crowdfunding Analysis\Resources\Theater_Outcomes_vs_Launch.png)
+![](Theater_Outcomes_vs_Launch.png)
 A similar pattern to that of successful projects was seen in failed projects when analyzing the data in terms of months in which they were launched. Below is a chart which shows outcome percentages as functions of funding goals.    
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](C:\Users\alder\ClassRepo\WorkingFolder\Crowdfunding Analysis\Resources\Outcomes_vs_Goals.png)
+![](Outcomes_vs_Goals.png)
 The percentage successful and percentage failed appear to be inversely related when graphed as functions of funding goal.
 ### Challenges and Difficulties Encountered
 Difficulty was had interpreting the data using the charts created. The line charts obscure the analysis by inviting speculation to there being continuation. This is not the case. For instance, the Y-coordinates in the Outcomes vs Launch graph are simply sums of either successful projects, failed projects or canceled projects that were launched in a given month. This would be more easily understood if read from a table. Also, Each of the critical points in the Outcome vs Goal chart has a $5000 interval as the x-value. One can only speak to there being a change in percentage failed or percentage successful for each $5000 increment. 
